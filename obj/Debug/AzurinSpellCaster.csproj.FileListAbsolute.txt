@@ -1,0 +1,44 @@
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\AzurinSpellCaster.exe.config
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\AzurinSpellCaster.exe
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\AzurinSpellCaster.pdb
+C:\Users\Gunari\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.csproj.AssemblyReference.cache
+C:\Users\Gunari\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.Properties.Resources.resources
+C:\Users\Gunari\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.csproj.GenerateResource.cache
+C:\Users\Gunari\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.csproj.CoreCompileInputs.cache
+C:\Users\Gunari\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.exe
+C:\Users\Gunari\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.pdb
+C:\Users\Gunari\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.MainWindow.resources
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\AzurinSpellCaster.exe.config
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\AzurinSpellCaster.exe
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\AzurinSpellCaster.pdb
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.csproj.AssemblyReference.cache
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.MainWindow.resources
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.Properties.Resources.resources
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.csproj.GenerateResource.cache
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.csproj.CoreCompileInputs.cache
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.exe
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.pdb
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\System.Buffers.dll
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\System.Memory.dll
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\System.Buffers.xml
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\System.Memory.xml
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.csproj.CopyComplete
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\System.Buffers.dll
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\System.Memory.dll
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\System.Buffers.xml
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\System.Memory.xml
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gunari\source\repos\AzurinSpellCaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gunari\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.csproj.CopyComplete
+C:\Users\Gunari\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.AboutWindow.resources
+C:\Users\Ego Yuda Sebatio\source\repos\AzurinSpellCaster\obj\Debug\AzurinSpellCaster.AboutWindow.resources

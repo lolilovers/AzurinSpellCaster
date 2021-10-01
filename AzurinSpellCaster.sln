@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzurinSpellCaster", "AzurinSpellCaster.csproj", "{DBFA2360-5812-462D-A16E-02C1780DED9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFA2360-5812-462D-A16E-02C1780DED9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFA2360-5812-462D-A16E-02C1780DED9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFA2360-5812-462D-A16E-02C1780DED9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFA2360-5812-462D-A16E-02C1780DED9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAF8B179-6E84-4ADB-B67B-517472D88A3C}
+	EndGlobalSection
+EndGlobal
